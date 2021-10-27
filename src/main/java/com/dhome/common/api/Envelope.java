@@ -1,5 +1,6 @@
 package com.dhome.common.api;
 
+import com.dhome.common.application.Error;
 import lombok.Value;
 
 import java.util.ArrayList;
