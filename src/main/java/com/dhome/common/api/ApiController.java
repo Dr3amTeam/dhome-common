@@ -1,5 +1,6 @@
 package com.dhome.common.api;
 
+import com.dhome.common.application.Error;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 
