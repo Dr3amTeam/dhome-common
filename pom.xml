@@ -3,9 +3,35 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.dhome</groupId>
+    <groupId>io.github.dr3amteam.dhome</groupId>
     <artifactId>common</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
+
+    <name>Dhome Common</name>
+    <description>Library common for a final project</description>
+    <url>https://github.com/Dr3amTeam/dhome-common</url>
+
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>http://www.opensource.org/licenses/mit-license.php</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>HR</name>
+            <email>U201722123@upc.edu.pe</email>
+            <organization>io.github.dr3amteam.dhome</organization>
+            <organizationUrl>https://github.com/Dr3amTeam/</organizationUrl>
+        </developer>
+    </developers>
+
+    <scm>
+        <connection>scm:git:git://github.com/Dr3amTeam/dhome-common.git</connection>
+        <developerConnection>scm:git:ssh://github.com:Dr3amTeam/dhome-common.git</developerConnection>
+        <url>https://github.com/Dr3amTeam/dhome-common/tree/master</url>
+    </scm>
 
     <properties>
         <java.version>1.8</java.version>
